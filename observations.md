@@ -7,3 +7,9 @@
 
 3. What statement would you use to accurately describe the relationship between these two variables?
    When a DC motor is hooked up to a power source (in this case a power supply), the RPM value goes up when more voltage is applied. 
+
+
+The Graph showing our data from the lab:
+
+
+![40_1, 20_1, 20_1 B, 60_1](https://user-images.githubusercontent.com/77801962/148874217-b5077104-7209-41d5-87cf-32d83d4de15d.png)
